@@ -212,13 +212,14 @@
         "index": 33,
         "name": "The Box",   
         "channel_thumbnal":"https://i.imgur.com/gPaTIUd.png",
-        "data": "http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/"
+        "data": "http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desk
+          .m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/"
       },
 
       {
         "index": 34,
         "name": "Top Music",   
-        "channel_thumbnal":"http://2.bp.blogspot.com/-_A-jiGtuVp8/UW_Qs9-lOJI/AAAAAAAAAEg/NsmFv_C60B0/s1600/TOPMUSIC.gif",
+        "channel_thumbnal":"https://i.imgur.com/D0IJ5JM.png",
         "data": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8"
       },
 
