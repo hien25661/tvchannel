@@ -197,7 +197,7 @@
       {
         "index": 31,
         "name": "Sonus FM TV",   
-        "channel_thumbnal":"http://sonus.fm/img/sonus_logo.png",
+        "channel_thumbnal":"https://www.sonus.fm/img/thumbnail.png",
         "data": "http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8"
       },
 
