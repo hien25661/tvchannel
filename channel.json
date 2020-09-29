@@ -162,7 +162,7 @@
       {
         "index": 26,
         "name": "Reload Radio",   
-        "channel_thumbnal":"https://www.radioreload.it/wp-content/uploads/2019/05/Logo-Radio-Reload-black.png",
+        "channel_thumbnal":"https://mytuner.global.ssl.fastly.net/media/tvos_radios/72cjm2r4d33m.png",
         "data": "http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8"
       },
 
