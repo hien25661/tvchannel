@@ -18,11 +18,11 @@
          "channel_thumbnal":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7xUfIz3KJC-Dg1J6KHypDnwdBn8EDCrBIbEEdkQC_RI3NtwO",
          "data":"https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8"
       },
-      {
-         "index":33,
-         "name":"The Box",
-         "channel_thumbnal":"https://i.imgur.com/gPaTIUd.png",
-         "data":"http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desk.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/"
+     {
+         "index":18,
+         "name":"MTV Norway",
+         "channel_thumbnal":"https://upload.wikimedia.org/wikipedia/commons/c/cb/MTV_Music_2017.png",
+         "data":"https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8"
       },
       {
          "index":34,
@@ -126,12 +126,7 @@
          "channel_thumbnal":"https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m2otv.png",
          "data":"https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8"
       },
-      {
-         "index":18,
-         "name":"MTV Norway",
-         "channel_thumbnal":"https://upload.wikimedia.org/wikipedia/commons/c/cb/MTV_Music_2017.png",
-         "data":"https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8"
-      },
+      
       {
          "index":19,
          "name":"Musig24",
